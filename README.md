@@ -57,6 +57,8 @@ This is where **YOU** come in! We are actively looking for collaborators to help
 5.  **Test:** Ensure your changes work and don't break existing functionality (formal tests are needed!).
 6.  **Submit:** Push your branch and open a Pull Request back to the main repository.
 
+![website screenshot](your-image-name.png)
+
 ## ⚠️ Disclaimer ⚠️
 
 Decentralized Finance (DeFi) involves significant risks, including the potential loss of funds. The smart contracts in this repository are experimental, **unaudited**, and provided "as is" without warranty of any kind.
