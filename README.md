@@ -57,7 +57,7 @@ This is where **YOU** come in! We are actively looking for collaborators to help
 5.  **Test:** Ensure your changes work and don't break existing functionality (formal tests are needed!).
 6.  **Submit:** Push your branch and open a Pull Request back to the main repository.
 
-![website screenshot](your-image-name.png)
+![website screenshot](website.png)
 
 ## ⚠️ Disclaimer ⚠️
 
